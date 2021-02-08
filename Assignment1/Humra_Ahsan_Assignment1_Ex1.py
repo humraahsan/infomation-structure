@@ -1,4 +1,6 @@
-# Assignment1
+# Humra Ahsan
+# Assignment1, Ex1
+
 def print_student_data(name, course, score):
     print(f'{name}  {course} {score}')
 
